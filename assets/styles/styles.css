@@ -2043,7 +2043,7 @@ textarea {
 .footer__copyright {
   -ms-flex-preferred-size: 73%;
       flex-basis: 73%;
-  margin-left: 404px;
+  margin-left: 7%;
   padding-top: 24px;
   font: 16px "OpenSans-Regular";
   color: #fff;
